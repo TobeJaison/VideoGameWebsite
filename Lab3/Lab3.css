@@ -1,0 +1,127 @@
+﻿body {
+    background-image: url("images3/playstation.jpg");
+    height: 1050px;
+    margin:0px;
+    padding:0px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#store {
+    text-align:center;
+    color:white;
+}
+label {
+    color: white;
+}
+.plat {
+    display: inline-block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 60px;
+}
+.gen {
+    display: inline-block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 60px;
+}
+#price {
+    display: inline-block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 60px;
+}
+#add {
+    display: inline-block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 60px;
+}
+#displayContainer {
+
+    width: 100%;
+}
+#gameContainer {
+    
+    padding:20px;
+}
+.pic {
+   height:10%;
+   width:10%;
+}
+
+#controller {
+    width:100%;
+    height:100%;
+}
+#rat {
+    height:3%;
+    width:3%;
+}
+.ratDiv {
+    display:inline-block;
+}
+#gameContainer {
+    position:relative;
+    padding-top:60px;
+    background-color:dodgerblue;
+    
+    
+    width:100%;
+    
+}
+#gameContainer h3,img,button {
+    position: relative;
+    
+    
+    left:500px;
+    
+    
+}
+.closeBtn {
+    background-color: blue;
+    border-color: blue;
+    color: white;
+    font:bold;
+}
+.moreDetailsBtn {
+    background-color: blue;
+    border-color: blue;
+    color: white;
+    font:bold;
+}
+#addNewGameBtn {
+    background-color: blue;
+    border-color: blue;
+    color: white;
+    font:bold;
+}
+#enter {
+    background-color: blue;
+    border-color: blue;
+    color: white;
+    font:bold;
+}
+#subFormBtn {
+    background-color: blue;
+    border-color: blue;
+    color: white;
+    font: bold;
+}
+#form {
+    position: relative;
+    height: 500px;
+    background-color: dodgerblue;
+    top: 185px;
+    left: 400px;
+    padding-top: 25px;
+    width: 38%;
+    
+}
+
+#tableTitle {
+    text-align: center;
+    color: white;
+}
